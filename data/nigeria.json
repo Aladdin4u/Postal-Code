@@ -1,0 +1,32 @@
+[
+  {
+    "state": "lagos",
+    "postalCode": 100001,
+    "street": "Ojo"
+  },
+  {
+    "state": "lagos",
+    "postalCode": 100001,
+    "street": "surulere"
+  },
+  {
+    "state": "lagos",
+    "postalCode": "100031",
+    "street": "Alagomeji"
+  },
+  {
+    "state": "lagos",
+    "postalCode": "100401",
+    "street": "yaba"
+  },
+  {
+    "state": "lagos",
+    "postalCode": "100431",
+    "street": "yaba"
+  },
+  {
+    "status": "fail",
+    "Error Message": "invalid postal code",
+    "code": "400"
+  }
+]
