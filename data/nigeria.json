@@ -1,32 +1,1507 @@
 [
   {
-    "state": "lagos",
-    "postalCode": 100001,
-    "street": "Ojo"
+    "state": "Abia",
+    "postalCode": 452116,
+    "address": {
+      "district": "Asa-North",
+      "street": "Obingwu"
+    }
   },
   {
-    "state": "lagos",
-    "postalCode": 100001,
-    "street": "surulere"
+    "state": "Abia",
+    "postalCode": 452116,
+    "address": {
+      "district": "Asa-North",
+      "street": "Umuma-Uzor"
+    }
   },
   {
-    "state": "lagos",
-    "postalCode": "100031",
-    "street": "Alagomeji"
+    "state": "Abia",
+    "postalCode": 452116,
+    "address": {
+      "district": "Asa-North",
+      "street": "Umuekechi"
+    }
   },
   {
-    "state": "lagos",
-    "postalCode": "100401",
-    "street": "yaba"
+    "state": "Abia",
+    "postalCode": 452116,
+    "address": {
+      "district": "Asa-North",
+      "street": "Umuezeke"
+    }
   },
   {
-    "state": "lagos",
-    "postalCode": "100431",
-    "street": "yaba"
+    "state": "Abia",
+    "postalCode": 452116,
+    "address": {
+      "district": "Asa-North",
+      "street": "Umuikukor"
+    }
   },
   {
-    "status": "fail",
-    "Error Message": "invalid postal code",
-    "code": "400"
-  }
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Aparazu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Obiahia"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Obiawon"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Ogwe"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Okpokoro-Ala"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Ozanta"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Ozatta"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Ugwati"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuabali"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuachakwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuachoke"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuada"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuadata"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuaebo"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuakirika"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuanyika"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuazuta"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuechke"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umukwuru"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umunkpulocha"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuodeke"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuogwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umuololo"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452114,
+    "address": {
+      "district": "Asa-South",
+      "street": "Umura"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452112,
+    "address": {
+      "district": "Ipu-East",
+      "street": "Ezebudele"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452112,
+    "address": {
+      "district": "Ipu-East",
+      "street": "Obehie"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452112,
+    "address": {
+      "district": "Ipu-East",
+      "street": "Obiakpu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452112,
+    "address": {
+      "district": "Ipu-East",
+      "street": "Obibor"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452112,
+    "address": {
+      "district": "Ipu-East",
+      "street": "Obukor"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452112,
+    "address": {
+      "district": "Ipu-East",
+      "street": "Umuahala"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452112,
+    "address": {
+      "district": "Ipu-East",
+      "street": "Umuajoha"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452112,
+    "address": {
+      "district": "Ipu-East",
+      "street": "Umuelechi"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Etitiuzo-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Eze Ugwu-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Omoekekewekwe"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umu-Acharaba"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umugala-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umukala-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umudobia"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umuegwesi-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umueme-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umungbeje-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umungede-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umunkpulu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umuohiata-Umudobia"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umuokerete"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umuokwolu-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umuololu-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umuosakara"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452113,
+    "address": {
+      "district": "Ipu-West",
+      "street": "Umuoyeke-Owaza"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Amaukwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Ikenyi"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Ogwati"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Umuakwa"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Umuguru 1"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Umuika"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Umuinwere"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Umunduru"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Umuoka"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Umuopere"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452115,
+    "address": {
+      "district": "Obokwe",
+      "street": "Umuopere-kamanu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452109,
+    "address": {
+      "district": "Ozar Ukwu",
+      "street": "Oborhia"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452109,
+    "address": {
+      "district": "Ozar Ukwu",
+      "street": "Oke-Ikpe"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452109,
+    "address": {
+      "district": "Ozar Ukwu",
+      "street": "Owo-Ala"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452109,
+    "address": {
+      "district": "Ozar Ukwu",
+      "street": "Owo-Asa"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452109,
+    "address": {
+      "district": "Ozar Ukwu",
+      "street": "Omuadienwe"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452109,
+    "address": {
+      "district": "Ozar Ukwu",
+      "street": "Omuebulugwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452109,
+    "address": {
+      "district": "Ozar Ukwu",
+      "street": "Omuiku"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452109,
+    "address": {
+      "district": "Ozar Ukwu",
+      "street": "Omunteke"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452110,
+    "address": {
+      "district": "Ozar West",
+      "street": "Obalu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452110,
+    "address": {
+      "district": "Ozar West",
+      "street": "Obiga"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452110,
+    "address": {
+      "district": "Ozar West",
+      "street": "Umuituru"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452110,
+    "address": {
+      "district": "Ozar West",
+      "street": "Umukalu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452110,
+    "address": {
+      "district": "Ozar West",
+      "street": "Umuokwo"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 452110,
+    "address": {
+      "district": "Ozar West",
+      "street": "Umuorie"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Abam-Nsulu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Abam-Nsuluamapa"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Alaoji"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Amapu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Amauvuru"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Amorji"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Ehere"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Eziama"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Iferefe"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Ikpakiri"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Ntigha"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Obeala"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Obete-Nchima"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Ohanze"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Okpuama-Uka"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Okuenyi"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Osusu Amaukwa"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Owohia"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umauafor"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umuaguma"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umuali"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umuguru"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umuochoi"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umuogele"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umuokahla"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umuokoroaka"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umuola Egbelu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ukwa Eest",
+      "street": "Umuoruwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453108,
+    "address": {
+      "district": "AKuma-Imo",
+      "street": "Akpa-Mbotor"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453108,
+    "address": {
+      "district": "AKuma-Imo",
+      "street": "Amairingbua-Ovom"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453108,
+    "address": {
+      "district": "AKuma-Imo",
+      "street": "Amasa-Ovom"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Agbaragwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Agburuke"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Agburuke-Isiugwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Akanu-Afagha"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Akanu-Okpulo"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Akpuga"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Amapu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Amazu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Avor"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Aziama"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Eziama"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Ichi"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Ikala-Umudagwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Isiahia"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Itu-Ikila"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Itu-Ngwa I"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Itu-Ngwa II"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Itukpa"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Mbutu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Mgboko-Osa"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Mgboko-Umu-Ora"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Osa I"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Owo-Ahiafor"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Omuaforkwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuagada"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umueijoke"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuakoma"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umudim"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuechi"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umueijoke"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umueke"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuezigbe"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umugwuma"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuibe"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umujaghari"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umulelu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umumagberugo"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuobasi"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuobiakwa"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuoji"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuoru"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Ala-Ukwu",
+      "street": "Umuosoiku-Ete-na-Onuma"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453107,
+    "address": {
+      "district": "Azumini",
+      "street": "Asuini-Ete-na-Onuma"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453107,
+    "address": {
+      "district": "Azumini",
+      "street": "Asuini"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453107,
+    "address": {
+      "district": "Azumini",
+      "street": "Ohukwu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453107,
+    "address": {
+      "district": "Azumini",
+      "street": "Okoloma Quarters"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453107,
+    "address": {
+      "district": "Azumini",
+      "street": "Umunta"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453110,
+    "address": {
+      "district": "Ibeme",
+      "street": "Abala-Ibeme"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453110,
+    "address": {
+      "district": "Ibeme",
+      "street": "Abala-Nkomiri"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453110,
+    "address": {
+      "district": "Ibeme",
+      "street": "Ahika"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453110,
+    "address": {
+      "district": "Ibeme",
+      "street": "Oberete"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453110,
+    "address": {
+      "district": "Ibeme",
+      "street": "Obete-Uku"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453110,
+    "address": {
+      "district": "Ibeme",
+      "street": "Obete-Umodu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453110,
+    "address": {
+      "district": "Ibeme",
+      "street": "Obete-Umuoha"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453110,
+    "address": {
+      "district": "Ibeme",
+      "street": "Ohanze-Agwo"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453104,
+    "address": {
+      "district": "Ikwu-Orie",
+      "street": "Amakam"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453104,
+    "address": {
+      "district": "Ikwu-Orie",
+      "street": "Amaobu"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453104,
+    "address": {
+      "district": "Ikwu-Orie",
+      "street": "Amorji"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453104,
+    "address": {
+      "district": "Ikwu-Orie",
+      "street": "Mkpukpator"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453104,
+    "address": {
+      "district": "Ikwu-Orie",
+      "street": "Mkpupuokwo"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453104,
+    "address": {
+      "district": "Ikwu-Orie",
+      "street": "Ogbunga I"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453104,
+    "address": {
+      "district": "Ikwu-Orie",
+      "street": "Ogbunga II"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453104,
+    "address": {
+      "district": "Ikwu-Orie",
+      "street": "Ohaogwe"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453104,
+    "address": {
+      "district": "Ikwu-Orie",
+      "street": "Okotoko"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453108,
+    "address": {
+      "district": "Ikwueke",
+      "street": "Eti"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453108,
+    "address": {
+      "district": "Ikwueke",
+      "street": "Mkpujakere"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453108,
+    "address": {
+      "district": "Ikwueke",
+      "street": "Mkpuophia-Oba"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453108,
+    "address": {
+      "district": "Ikwueke",
+      "street": "Obeaku"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453108,
+    "address": {
+      "district": "Ikwueke",
+      "street": "Ohambele"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453108,
+    "address": {
+      "district": "Ikwueke",
+      "street": "Ohanso"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453105,
+    "address": {
+      "district": "Ikwueke",
+      "street": "null"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453105,
+    "address": {
+      "district": "Ikwuo Rieator",
+      "street": "null"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453109,
+    "address": {
+      "district": "Ntigha Uzor",
+      "street": "null"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453105,
+    "address": {
+      "district": "Obohia",
+      "street": "Obohia"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453103,
+    "address": {
+      "district": "Ohuru",
+      "street": "null"
+    }
+  },
+  {
+    "state": "Abia",
+    "postalCode": 453106,
+    "address": {
+      "district": "Umuigbube-Achara",
+      "street": "null"
+    }
+  },
+  {}
 ]
