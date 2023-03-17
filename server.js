@@ -6,7 +6,6 @@ const argentina = require("./data/argentina.json");
 const southAfrica = require("./data/southAfrica.json");
 const app = express();
 
-
 app.get("/", (req, res) => {
   res.send("Hello world");
 });
@@ -14,9 +13,9 @@ app.get("/nigeria/:ng", (req, res) => {
   const ng = Number(req.params.ng);
   const postal = nigeria.find((code) => code.postalCode === ng);
   if (postal) {
-    return res.json(postal);
+    return res.json({ Status: "Success", PostalCode: postal });
   } else {
-    return res.status(404).send("error: invalid postal code");
+    return res.status(404).json({ Status: "Error", PostalCode: null });
   }
 });
 app.get("/canada/:ca", (req, res) => {
